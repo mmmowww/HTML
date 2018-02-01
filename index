@@ -1,0 +1,17 @@
+<html>
+<head>
+<style>
+body {backgound-color: Black;}
+</style>
+<body style="color:green;">
+<div id="contaider">
+<nav id="topnav">
+<a href="index.php" title="Главная"><img src="G.jpg" alt ="Главная" /></a>
+<a href="about.html" title ="Я о себе"<img scr ="I.jpg" alt= "Я о себе" /></a>
+<a href="New.html" title="Новости" ><img src="N.jpg" alt="Новости" /></a>
+<a href=""
+<a href=""
+<a href=""
+<a href=""
+</head>
+</html>
